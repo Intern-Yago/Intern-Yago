@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/Intern-Yago/8d96838240df3df711f2a4fd6ee9736c/raw/46d21ba3540ac738c1d3018dea9077bc5a374b59/githubcard.svg" height="660em"/>
+<img align="right" src="https://raw.githubusercontent.com/gist/Intern-Yago/8d96838240df3df711f2a4fd6ee9736c/raw/46d21ba3540ac738c1d3018dea9077bc5a374b59/githubcard.svg" height="640em"/>
 <h1>Salve <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Yago!</h1>
 Mais um curioso afim de aprender sobre o mundo da tecnologia
 
